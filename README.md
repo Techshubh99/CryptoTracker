@@ -1,7 +1,4 @@
 Cryptocurrency Website. --> Landing Page (Homepage). --> Search functionaly. (Search input and list of all) --> Detail Screen, Show some sort of Price, History chart or something like that.
-
---> We will be hosting this. (Github Pages, Netlify / Heroku).
-
 --> HTML / CSS / JS.
 
 --> CryptoView.
